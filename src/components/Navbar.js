@@ -2,11 +2,19 @@ import React from 'react'
 import '../index.css'
 
 const Navbar = () => {
-  return (
-    <div className='font-bold'>
-    <h1 className='text-orange-500'>Navbar</h1>
-    </div>
-  )
+    return (
+        <>
+            <div className='flex justify-center'>
+<ul>
+    <li>Home</li>
+    <li>About</li>
+    <li>Connect</li>
+    <li>Resume</li>
+</ul>
+            </div>
+
+        </>
+    )
 }
 
 export default Navbar
