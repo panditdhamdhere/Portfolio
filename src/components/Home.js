@@ -11,8 +11,8 @@ const Home = () => {
           <div>
             <button className='group text-white w-fit px-6 py-3 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer '>
               Scroll Down
-              <span className='group-hover:rotate-90 duration-300'><MdKeyboardArrowRight /></span>
-              
+              <span className='group-hover:rotate-90 duration-300'><MdKeyboardArrowRight size={25} className='m-1' /></span>
+
             </button>
           </div>
         </div>
