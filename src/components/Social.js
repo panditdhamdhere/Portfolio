@@ -12,7 +12,7 @@ const Social = () => {
                     LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://www.linkedin.com/in/pandit-dhamdhere-139858221/',
             style: 'rounded-tr-md'
         },
 
@@ -23,7 +23,7 @@ const Social = () => {
                     GitHub <FaGithub size={30} />
                 </>
             ),
-            href: 'https://github.com',
+            href: 'https://github.com/panditdhamdhere',
 
         },
 
@@ -45,7 +45,7 @@ const Social = () => {
                     Twitter <FaTwitter size={30} />
                 </>
             ),
-            href: 'https://twitter.com',
+            href: 'https://twitter.com/panditdhamdhere',
             style: 'rounded-br-md'
         }
     ]
